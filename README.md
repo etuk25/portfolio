@@ -15,11 +15,11 @@ Hello! I'm Anietie Etuk 🤓, a Data Analytics Coach | Course Creator | Lead Ins
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**How I helped AutoStyle Ltd, to increase sales by 24% in 6 months.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
